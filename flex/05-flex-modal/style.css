@@ -59,8 +59,17 @@ button.continue {
   color: white;
 }
 
+.top {
+  display: flex;
+  margin: 16px;
+}
+
 button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+}
+.header {
+  font-weight: bold;
+  margin-right: auto;
 }
